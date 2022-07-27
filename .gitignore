@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+config.py
+wikipedia-movies.json
+movies_metadata.csv
+ratings.csv
 
 # C extensions
 *.so

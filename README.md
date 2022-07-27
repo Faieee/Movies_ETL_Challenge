@@ -6,5 +6,7 @@ Deliverables 1-4 at
 - [ETL_create_database.ipynb](ETL_create_database.ipynb)
 
 Images:
+
 ![](movies_query.png)
+
 ![](ratings_query.png)
